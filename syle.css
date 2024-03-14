@@ -1,7 +1,25 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aqua;
+    
+    background-color: #f2f2f2;
 }
-h1,h2{
-    color: blue;
+h1{
+    color: #333;
+    padding-bottom: 10px;
+    text-align: center;
+}
+h2 {
+    color: 007bff;
+}
+p{
+    color: #555;
+}
+a{
+    color: #007bff;
+}
+ul{
+   color: #555;
+   margin-left: 5px; 
+}
+li{
+    margin-bottom: 5px;
 }
